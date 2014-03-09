@@ -1,0 +1,1 @@
+netsh advfirewall firewall delete rule name="World Wide Web Services (HTTPS Traffic-In)" protocol=tcp localport=443
